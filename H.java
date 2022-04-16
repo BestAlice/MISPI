@@ -19,4 +19,8 @@ public class H {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
