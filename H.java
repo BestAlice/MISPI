@@ -1,4 +1,4 @@
-public class H {
+public class H extends null {
 
     private int d = 1;
 
@@ -22,5 +22,21 @@ public class H {
 
     public long dd() {
         return 99999;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public Object rr() {
+        return null;
     }
 }
