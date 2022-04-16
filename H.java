@@ -23,4 +23,8 @@ public class H {
     public long dd() {
         return 99999;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
