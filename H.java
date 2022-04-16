@@ -15,4 +15,8 @@ public class H {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }
