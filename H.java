@@ -12,16 +12,20 @@ public class H extends null {
         return 222;
     }
 
+    public long dd() {
+        return 99999;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
     public double ee() {
         return java.lang.Math.PI;
     }
 
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
-    }
-
-    public long dd() {
-        return 99999;
     }
 
     public java.lang.Class qq() {
@@ -36,7 +40,11 @@ public class H extends null {
         return new java.util.HashSet<Integer>;
     }
 
-    public Object rr() {
-        return null;
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }
